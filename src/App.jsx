@@ -24,7 +24,6 @@ function getModalStyle() {
     transform: `translate(-${top}%, -${left}%)`,
   };
 }
-
 function rand() {
   return Math.round(Math.random() * 20) - 10;
 }
